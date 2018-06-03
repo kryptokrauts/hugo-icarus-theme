@@ -12,7 +12,7 @@
 # articles
 #
 [words]
-  other = "Wörter"
+  other = "WÃ¶rter"
 [readingtime]
   other = "Lesezeit"
 [articles-share]
@@ -22,11 +22,11 @@
 [articles-read-more]
   other = "Weiterlesen"
 [posts-older]
-  other = "Ältere Artikel"
+  other = "Ã„ltere Artikel"
 [posts-newer]
   other = "Neuere Artikel"
 [postedOnDate]
-  other = "Veröffentlich am {{ .Count }}"
+  other = "VerÃ¶ffentlicht am {{ .Count }}"
 
 #
 # widgets
@@ -50,7 +50,7 @@
 # Pagination
 #
 [pagination-previous]
-  other = "Zurück"
+  other = "ZurÃ¼ck"
 [pagination-next]
   other = "Vor"
 
